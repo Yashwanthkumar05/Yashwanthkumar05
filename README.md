@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FF4500&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yashwanth+%F0%9F%91%8B;AI+%2B+MedTech+%2B+Full-Stack+Dev;Building+the+Future+of+Healthcare+%F0%9F%A9%BA;Biomedical+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Yashwanth+%F0%9F%91%8B;AI+%2B+MedTech+%2B+Full-Stack+Dev;Building+the+Future+of+Healthcare+%F0%9F%A9%BA;Biomedical+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8A2BE2&height=220&section=header&text=YASHWANTH%20KUMAR%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%7C%20MedTech%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6A0DAD,100:B026FF&height=220&section=header&text=YASHWANTH%20KUMAR%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20%7C%20MedTech%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥-BIOMEDICAL%20ENGINEER-FF4500?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/⚡-AI%2FML%20BUILDER-8A2BE2?style=for-the-badge&labelColor=black">
-  <img src="https://img.shields.io/badge/🚀-OPEN%20TO%20INTERNSHIPS-00C853?style=for-the-badge&labelColor=black">
+  <img src="https://img.shields.io/badge/🔥-BIOMEDICAL%20ENGINEER-B026FF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/⚡-AI%2FML%20BUILDER-6A0DAD?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/🚀-OPEN%20TO%20INTERNSHIPS-9D00FF?style=for-the-badge&labelColor=000000">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Yashwanthkumar05" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B026FF"></a>
+  <a href="https://github.com/Yashwanthkumar05" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B026FF"></a>
+  <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B026FF"></a>
 </p>
 
 <p align="center">
@@ -43,14 +43,14 @@ fun_fact: "Built an ESP32 patient monitor AND a Flutter game with anti-gravity p
 <td width="50%">
 
 ### 🧠 MedTwinGPT-X
-Multimodal AI for early disease risk prediction  
+Multimodal AI for early disease risk prediction
 `Cross-Modal Attention Transformer` `Digital Twin` `7-Step Safety Layer` `Ollama LLM`
 
 </td>
 <td width="50%">
 
 ### 🔐 MedShield AI
-PHI anonymization pipeline for clinical text  
+PHI anonymization pipeline for clinical text
 `spaCy` `SciSpaCy` `Stanza` `Flair` `Presidio` `BioClinicalBERT`
 
 </td>
@@ -59,14 +59,14 @@ PHI anonymization pipeline for clinical text
 <td width="50%">
 
 ### 🎗️ MOCDS
-Multi-Organ Cancer Detection System  
+Multi-Organ Cancer Detection System
 `CNN` `GradCAM` `87.3% Accuracy` `6 Organ Types`
 
 </td>
 <td width="50%">
 
 ### 👁️ Clustrex
-Retinal disease screening system  
+Retinal disease screening system
 `EfficientNet` `Team Hack Wings`
 
 </td>
@@ -75,14 +75,14 @@ Retinal disease screening system
 <td width="50%">
 
 ### ⌚ VitalAI
-ESP32 AI patient monitoring system  
+ESP32 AI patient monitoring system
 `FastAPI` `Flutter` `LangChain RAG` `LSTM`
 
 </td>
 <td width="50%">
 
 ### 🔥 HabitX
-Social habit-tracker with AI coaching  
+Social habit-tracker with AI coaching
 `Flutter` `RAG` `Financial Accountability`
 
 </td>
@@ -102,16 +102,16 @@ Social habit-tracker with AI coaching
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthkumar05&show_icons=true&theme=radical&count_private=true&border_color=FF4500&title_color=FF4500&icon_color=8A2BE2" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthkumar05&layout=compact&theme=radical&border_color=FF4500&title_color=FF4500" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthkumar05&show_icons=true&theme=dark&bg_color=000000&title_color=B026FF&icon_color=9D00FF&text_color=ffffff&border_color=6A0DAD&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthkumar05&layout=compact&theme=dark&bg_color=000000&title_color=B026FF&text_color=ffffff&border_color=6A0DAD" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthkumar05&theme=radical&border=FF4500&stroke=8A2BE2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthkumar05&theme=dark&background=000000&border=6A0DAD&stroke=B026FF&ring=9D00FF&fire=B026FF&currStreakLabel=B026FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthkumar05&theme=redical&bg_color=0d1117&color=FF4500&line=8A2BE2&point=ffffff" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthkumar05&bg_color=000000&color=B026FF&line=9D00FF&point=ffffff&area=true&area_color=6A0DAD" width="90%"/>
 </p>
 
 ---
@@ -122,8 +122,7 @@ Social habit-tracker with AI coaching
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-blue?style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=Yashwanthkumar05&label=Visitors&color=FF4500&style=for-the-badge" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=Yashwanthkumar05&label=Visitors&color=B026FF&style=for-the-badge&labelColor=000000" alt="visitor badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF4500&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:6A0DAD,100:000000&height=100&section=footer" width="100%"/>
