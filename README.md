@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B026FF"></a>
   <a href="https://github.com/Yashwanthkumar05" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B026FF"></a>
-  <a href="mailto:" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B026FF"></a>
+  <a href="mailto:yashwanth2310610@ssn.edu.in" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B026FF"></a>
 </p>
 
 <p align="center">
