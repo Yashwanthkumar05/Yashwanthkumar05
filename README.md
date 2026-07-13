@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔥-BIOMEDICAL%20ENGINEER-B026FF?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/⚡-AI%2FML%20BUILDER-6A0DAD?style=for-the-badge&labelColor=000000">
-  <img src="https://img.shields.io/badge/🚀-OPEN%20TO%20INTERNSHIPS-9D00FF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/⚡-AI%2FML%20BUILDER-9D00FF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/💻-APP%20%26%20WEB%20DEVELOPER-C77DFF?style=for-the-badge&labelColor=000000">
 </p>
 
 <p align="center">
@@ -24,15 +24,7 @@
 
 ## 🧬 About Me
 
-```yaml
-name: "Yashwanth Kumar S"
-role: "Biomedical Engineering Student @ SSN College of Engineering"
-graduation: "2027"
-focus: ["AI/ML", "MedTech", "Full-Stack Development"]
-currently_building: "MedTwinGPT-X — Multimodal Healthcare AI"
-looking_for: "AI/ML • MedTech • Full-Stack Internships"
-fun_fact: "Built an ESP32 patient monitor AND a Flutter game with anti-gravity physics 🚀"
-```
+I'm Yashwanth Kumar S, a Biomedical Engineering student at SSN College of Engineering, Chennai, graduating in 2027. I build at the intersection of AI/ML, MedTech, and full-stack development — from Flutter and React apps to deep learning models for healthcare. I'm currently working on **MedTwinGPT-X**, a multimodal AI system that predicts early disease risk using wearable sensor data, retinal and skin imagery, audio, and medical history, powered by a Cross-Modal Attention Transformer and a Hybrid LLM setup. Alongside that, I'm the Privacy and Anonymization Engineer on **MedShield AI**, a PHI anonymization pipeline built for real clinical documents. I love shipping end-to-end products — designing the model, building the backend, and wrapping it all in a clean app or web interface.
 
 ---
 
@@ -102,16 +94,12 @@ Social habit-tracker with AI coaching
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthkumar05&show_icons=true&theme=dark&bg_color=000000&title_color=B026FF&icon_color=9D00FF&text_color=ffffff&border_color=6A0DAD&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthkumar05&layout=compact&theme=dark&bg_color=000000&title_color=B026FF&text_color=ffffff&border_color=6A0DAD" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthkumar05&show_icons=true&theme=dark&bg_color=000000&title_color=B026FF&icon_color=C77DFF&text_color=ffffff&border_color=9D00FF&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthkumar05&layout=compact&theme=dark&bg_color=000000&title_color=B026FF&text_color=ffffff&border_color=9D00FF" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthkumar05&theme=dark&background=000000&border=6A0DAD&stroke=B026FF&ring=9D00FF&fire=B026FF&currStreakLabel=B026FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthkumar05&bg_color=000000&color=B026FF&line=9D00FF&point=ffffff&area=true&area_color=6A0DAD" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthkumar05&theme=dark&background=000000&border=9D00FF&stroke=B026FF&ring=C77DFF&fire=B026FF&currStreakLabel=B026FF" />
 </p>
 
 ---
@@ -125,4 +113,4 @@ Social habit-tracker with AI coaching
   <img src="https://komarev.com/ghpvc/?username=Yashwanthkumar05&label=Visitors&color=B026FF&style=for-the-badge&labelColor=000000" alt="visitor badge" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:6A0DAD,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,50:9D00FF,100:000000&height=100&section=footer" width="100%"/>
