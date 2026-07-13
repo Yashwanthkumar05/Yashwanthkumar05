@@ -24,7 +24,7 @@
 
 ## 🧬 About Me
 
-I'm Yashwanth Kumar S, a Biomedical Engineering student at SSN College of Engineering, Chennai, graduating in 2027. I build at the intersection of AI/ML, MedTech, and full-stack development — from Flutter and React apps to deep learning models for healthcare. I'm currently working on **MedTwinGPT-X**, a multimodal AI system that predicts early disease risk using wearable sensor data, retinal and skin imagery, audio, and medical history, powered by a Cross-Modal Attention Transformer and a Hybrid LLM setup. Alongside that, I'm the Privacy and Anonymization Engineer on **MedShield AI**, a PHI anonymization pipeline built for real clinical documents. I love shipping end-to-end products — designing the model, building the backend, and wrapping it all in a clean app or web interface.
+👋 I'm Yashwanth Kumar S, a 🧪 Biomedical Engineering student at SSN College of Engineering, Chennai, graduating in 2027. I build at the intersection of 🤖 AI/ML, 🩺 MedTech, and 🌐 full-stack development — from Flutter and React apps to deep learning models for healthcare. 🚀 I'm currently working on **MedTwinGPT-X**, a multimodal AI system that predicts early disease risk using wearable sensor data, retinal and skin imagery, audio 🎙️, and medical history, powered by a Cross-Modal Attention Transformer and a Hybrid LLM setup. Alongside that, I'm the 🔐 Privacy and Anonymization Engineer on **MedShield AI**, a PHI anonymization pipeline built for real clinical documents. 💜 I love shipping end-to-end products — designing the model, building the backend, and wrapping it all in a clean app or web interface.
 
 ---
 
@@ -85,8 +85,24 @@ Social habit-tracker with AI coaching
 
 ## ⚙️ Tech Arsenal
 
+**Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,react,nodejs,flask,fastapi,mysql,matlab,arduino,tensorflow,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,dart,cpp,c,java,js,html,css&theme=dark" />
+</p>
+
+**Frameworks & Libraries**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,flask,fastapi,tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
+**Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,linux,vscode,figma&theme=dark" />
+</p>
+
+**Hardware & Platforms**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,matlab,androidstudio,firebase,docker&theme=dark" />
 </p>
 
 ---
